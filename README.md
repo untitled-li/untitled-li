@@ -15,18 +15,6 @@
 <br>
 <br>
 
-
-
-<p align="center" >
-      <a href="https://www.youtube.com/watch?v=z9e8CPULjW4" target="_blank">
-            <img height="80" src="/assets/playlist-icon-inter.png" />
-      </a>
-      &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-      <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5085878" target="_blank">
-            <img height="80" src="/assets/deadi-icon-inter.png" />
-      </a>
-</p>
-
 <p align="center" >
       <a href="https://fuckvibecoding.com/" target="_blank">
             <img height="50" src="/assets/vibe-inter.png" />
