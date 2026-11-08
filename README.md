@@ -1,6 +1,6 @@
 
 <p align="center">
-      <img height="500" src="/assets/cube.png" />
+      <img height="300" src="/assets/cube.png" />
       <img height="500" src="/assets/full-stack-inter.png" />
 </p>
 
