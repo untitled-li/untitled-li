@@ -6,10 +6,10 @@
 
 
 <p align="center">
-      <img height="60" src="/assets/react-native-inter.png" />&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-      <img height="60" src="/assets/kotlin-inter.png" />&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-      <img height="60" src="/assets/mobile-inter.png" />&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-      <img height="60" src="/assets/web-inter.png" />
+      <img height="60" src="/assets/react-native-icon.png" />&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+      <img height="60" src="/assets/android-icon.png" />&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+      <img height="60" src="/assets/apple-icon.png" />&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+      <img height="60" src="/assets/html-icon.png" />
 </p>
 
 <br>
